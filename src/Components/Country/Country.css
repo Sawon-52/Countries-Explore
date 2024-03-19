@@ -1,0 +1,9 @@
+.country {
+  border: 2px solid goldenrod;
+  border-radius: 20px;
+  margin: 40px 0;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  gap: 15px;
+}
