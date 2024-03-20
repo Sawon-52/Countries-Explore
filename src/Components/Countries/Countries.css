@@ -10,3 +10,10 @@
     gap: 20px;
   }
 }
+
+.listed {
+  border: 2px solid brown;
+  border-radius: 20px;
+  padding: 20px;
+  margin: 20px 0;
+}
